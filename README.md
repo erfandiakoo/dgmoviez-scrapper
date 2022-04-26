@@ -1,2 +1,5 @@
 #digimoviez-scrapper
-get latest series update
+- digimoviez scrapper in golang
+> Options
+- get latest series update
+- get new domain
